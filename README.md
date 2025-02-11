@@ -1,4 +1,6 @@
-###  Blkwt (Pedro Albuquerque)
+## Hoje, 11/02/2025, decidi começar a expor meus trabalhos. Aos poucos, vou subir todos os projetos que já desenvolvi, até que este perfil fique completo e visualmente impecável.
+
+ Blkwt 
 
  **Olá!** Meu nome é **Pedro Henrique Albuquerque**, mas no setor de tecnologia sou conhecido como **Blkwt (Blackout)**.  
 Sou um **desenvolvedor autodidata**, especializado em **Inteligência Artificial, Automação e Desenvolvimento de Agentes Autônomos**.
